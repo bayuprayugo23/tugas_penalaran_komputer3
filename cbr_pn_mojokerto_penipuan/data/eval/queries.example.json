@@ -1,0 +1,8 @@
+[
+  {
+    "query_id": "q_manual_001",
+    "query": "Terdakwa diduga melakukan penipuan dengan rangkaian kebohongan sehingga korban menyerahkan sejumlah uang.",
+    "ground_truth_case_id": "case_001",
+    "ground_truth_solution": "Terbukti - pidana tidak terbaca"
+  }
+]
